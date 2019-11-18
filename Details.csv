@@ -1,73 +1,70 @@
-Name,Score,State,Country,Lang
-Gordon Linoff,683,New York, United States
-jezrael,586,Bratislava, Slovakia
-VonC,460,France
-GMB,448,
-Martijn Pieters,443,Cambridge, UK
-Soheil Armin,437,Tehran
-T.J. Crowder,418,United Kingdom
-Jon Skeet,415,Reading, United Kingdom
-Nicol Bolas,406,
-CertainPerformance,395,Austin, TX, USA
-tynn,379,Berlin, Germany
-Ronak Shah,375,Pune, India.
-darune,365,Aalborg, Danmark
-Willem Van Onsem,375,Ypres, Belgium
-Günter Zöchbauer,345,Linz, Austria
-StoryTeller - Unslander Monica,309,Israel
-kaya3,300,United Kingdom
-Frank van Puffelen,295,San Francisco, CA
-Nina Scholz,283,Düsseldorf, Deutschland
-unutbu,280,
-Sajeetharan,276,Colombo, Sri Lanka
-Tim Biegeleisen,269,Singapore
-Andrei Stefan,265,
-Cheticamp,250,
-Mojtaba Hosseini,260,Iran
-Chuck Smith,250,Berlin, Germany
-akrun,248,
-John Rotenstein,240,Sydney, Australia
-dustbuster,240,Bel Air, MD, United States
-Felix Kling,234,
-Peter Cordes,230,Halifax, Canada
-ircmaxell,230,New Jersey
-Rémi Rousselet,229,Paris, France
-SLaks,228,New Jersey
-trincot,226,Belgium
-jfriend00,225,
-Aaron Hall,225,NYC, NY, United States
-Razor,223,Morocco
-Suragch,220,
-Zim,219,USA
-Greg Hewgill,218,Christchurch, New Zealand
-Rabbid76,215,Austria
-Nick,215,Adelaide SA, Australia
-Remy Lebeau,212,United States
-Marceline,207,
-Alex Martelli,206,Sunnyvale, CA
-Aprillion,206,Prague, Czech Republic
-Manoj Singh,200,New Delhi, Delhi, India
-dev_junwen,198,
-pissall,192,Mumbai, Maharashtra, India
-CommonsWare,188,Pennsylvania, United States
-torek,185,Berkeley, CA
-chi,185,
-P__J__,183,United Kingdom
-Evg,180,
-a_horse_with_no_name,179,Munich, Bavaria
-oguz ismail,176,Turkey
-songyuanyao,175,Beijing, China
-cricket_007,185,Austin, TX, United States
-paxdiablo,170,
-jfs,170,Moscow, Russia
-Shepmaster,170,Pittsburgh, PA
-eerorika,170,Turku, Finland
-stovfl,170,
-Bryan Oakley,169,Choctaw, OK
-Quentin,168,United Kingdom
-forpas,190,
-Sergey Kolodiy,165,Saint Petersburg, Russia
-oppressionslayer,161,
-Darin Dimitrov,160,Sofia, Bulgaria
-CB Bailey,160,United Kingdom
-Sven Marnach,160,Preetz, Germany
+Name,Score,State,Country,Area,Lang
+jezrael,1,820,Bratislava, Slovakia
+Gordon Linoff,1,783,New York, United States
+GMB,1,648,
+akrun,1,243,
+Ronak Shah,1,240,Pune, India.
+kaya3,1,205,United Kingdom
+Willem Van Onsem,1,128,Ypres, Belgium
+CertainPerformance,1,120,Austin, TX, USA
+T.J. Crowder,1,084,United Kingdom
+Tim Biegeleisen,1,042,Singapore
+VonC,1,038,France
+Martijn Pieters,969,Cambridge, UK
+Jon Skeet,968,Reading, United Kingdom
+Nicolas,935,Québec, QC, Canada
+Frank van Puffelen,895,San Francisco, CA
+Quentin,886,United Kingdom
+chepner,871,Massachusetts
+unutbu,830,
+Günter Zöchbauer,825,Linz, Austria
+Bergi,821,
+a_horse_with_no_name,808,Munich, Bavaria
+Mojtaba Hosseini,805,Iran
+Sajeetharan,803,Colombo, Sri Lanka
+Greg Hewgill,800,Christchurch, New Zealand
+Gerardo Furtado,795,Melbourne, Australia
+Marc Gravell,780,Forest of Dean, United Kingdom
+WeNYoBen,777,United States
+Peter Cordes,775,Halifax, Canada
+jfriend00,769,
+Alex Martelli,768,Sunnyvale, CA
+SLaks,758,New Jersey
+anubhava,756,Bangalore, India
+Suragch,750,
+torek,745,Berkeley, CA
+Nina Scholz,726,Düsseldorf, Deutschland
+Jonathan Leffler,725,California, USA
+Nicol Bolas,725,
+Felix Kling,717,
+CommonsWare,713,Pennsylvania, United States
+CB Bailey,700,United Kingdom
+Matthew Rankin,700,Independence, MO
+mklement0,700,United States
+Barmar,693,Arlington, MA
+Darin Dimitrov,688,Sofia, Bulgaria
+Nick,688,Adelaide SA, Australia
+paxdiablo,685,
+cs95,683,At an ipython shell near you
+BalusC,678,Willemstad, Curaçao
+ImportanceOfBeingErnest,674,QuantumLocation
+Remy Lebeau,673,United States
+piRSquared,665,Irvine, CA, United States
+CMS,670,Guatemala
+EdChum - Reinstate Monica,660,Berkshire, United Kingdom
+Espen,660,Norway
+Shepmaster,655,Pittsburgh, PA
+Ignacio Vazquez-Abrams,650,
+JaredPar,636,Redmond, WA
+Sven Marnach,630,Preetz, Germany
+John Rotenstein,624,Sydney, Australia
+dustbuster,620,Bel Air, MD, United States
+jfs,616,Moscow, Russia
+Aaron Hall,611,NYC, NY, United States
+StoryTeller - Unslander Monica,604,Israel
+Rémi Rousselet,601,Paris, France
+Doug Stevenson,600,Silicon Valley
+Adrita Sharma,599,India
+Michael_B,598,New York City, USA
+Erwin Brandstetter,595,Vienna, Austria
+Stephen C,593,Australia

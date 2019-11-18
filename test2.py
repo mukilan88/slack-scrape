@@ -9,7 +9,7 @@ driver = webdriver.Chrome(executable_path = path)
 # creating a file name
 file = "Details.csv"
 f = open(file, "w") #open the file
-Headers = "Name,Score,State,Country\n" #heading part
+Headers = "Name,Score,State,Country,Area,Lang\n" #heading part
 f.write(Headers) #inserting the heading
 
 # range = [0 to 2]
@@ -24,17 +24,37 @@ for i in range(1,3):
     soup = BeautifulSoup(driver.page_source,'html.parser')
     # print(soup)
     # finding the name of the user inside the class file
-    # Title = soup.find_all("div", {"class":"user-details"})
+    Title = soup.find_all("div", {"class":"user-details"})
     # print(len(Title)) #total lenth of the user in the page
     PTag = soup.find_all("div", {"class":"user-tags"})
-   
+    # print(len(PTag))
     # loop for getting the name 
-    for i in PTag:
+    for i in Title:
         try:
-            # for only python user filter
-            # name = i.find('a', {"href":"/questions/tagged/python"}).get_text()
-            name = i.find_all('a')
-            print(i.text)
-             
+            name = i.find('a').get_text()
+            score = i.find('span', class_ ='reputation-score').get_text()
+            location = i.find('span', class_ ='user-location').get_text()
+            # dict = {name,score,location}
+            # print(dict)
+            name_list = (name)
+            score_list = (score)
+            location_list = (location)
+            # f.write(dict)
+            f.write(name_list)
+            f.write(",")
+            f.write(score_list)
+            f.write(",")
+            f.write(location_list)
+            f.write("\n")    
         except: AttributeError
+# f.close()
+
+    for j in PTag:
+        try:
+            lang = j.find_all('a')
+            print(j.text)
+            lang_list = (lang)
+            f.write(lang_list)
+            f.write("\n") 
+        except: AttributeError       
 f.close()
