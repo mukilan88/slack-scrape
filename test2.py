@@ -1,6 +1,7 @@
 # header file imported
 from bs4 import BeautifulSoup
 from selenium import webdriver
+import pandas as pd
 
 # path = path of the chrome drive from the folder and r is raw file
 path= r"C:\\Users\\Jothi\\Desktop\\Mukilan\\chromedriver\\chromedriver.exe"
@@ -34,27 +35,20 @@ for i in range(1,3):
             name = i.find('a').get_text()
             score = i.find('span', class_ ='reputation-score').get_text()
             location = i.find('span', class_ ='user-location').get_text()
-            # dict = {name,score,location}
-            # print(dict)
-            name_list = (name)
-            score_list = (score)
-            location_list = (location)
-            # f.write(dict)
-            f.write(name_list)
+            # print(name)
+            f.write(name)
             f.write(",")
-            f.write(score_list)
+            f.write(score)
             f.write(",")
-            f.write(location_list)
+            f.write(location)
             f.write("\n")    
         except: AttributeError
-# f.close()
 
     for j in PTag:
         try:
-            lang = j.find_all('a')
-            print(j.text)
-            lang_list = (lang)
-            f.write(lang_list)
+            lang = j.text
+            # print(lang)
+            f.write(lang)
             f.write("\n") 
-        except: AttributeError       
+        except: AttributeError  
 f.close()

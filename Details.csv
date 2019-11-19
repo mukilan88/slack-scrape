@@ -1,70 +1,211 @@
-Name,Score,State,Country,Area,Lang
-jezrael,1,820,Bratislava, Slovakia
-Gordon Linoff,1,783,New York, United States
-GMB,1,648,
-akrun,1,243,
-Ronak Shah,1,240,Pune, India.
-kaya3,1,205,United Kingdom
-Willem Van Onsem,1,128,Ypres, Belgium
-CertainPerformance,1,120,Austin, TX, USA
-T.J. Crowder,1,084,United Kingdom
-Tim Biegeleisen,1,042,Singapore
-VonC,1,038,France
-Martijn Pieters,969,Cambridge, UK
-Jon Skeet,968,Reading, United Kingdom
-Nicolas,935,Québec, QC, Canada
-Frank van Puffelen,895,San Francisco, CA
-Quentin,886,United Kingdom
-chepner,871,Massachusetts
-unutbu,830,
-Günter Zöchbauer,825,Linz, Austria
-Bergi,821,
-a_horse_with_no_name,808,Munich, Bavaria
-Mojtaba Hosseini,805,Iran
-Sajeetharan,803,Colombo, Sri Lanka
-Greg Hewgill,800,Christchurch, New Zealand
-Gerardo Furtado,795,Melbourne, Australia
-Marc Gravell,780,Forest of Dean, United Kingdom
-WeNYoBen,777,United States
-Peter Cordes,775,Halifax, Canada
-jfriend00,769,
-Alex Martelli,768,Sunnyvale, CA
-SLaks,758,New Jersey
-anubhava,756,Bangalore, India
-Suragch,750,
-torek,745,Berkeley, CA
-Nina Scholz,726,Düsseldorf, Deutschland
-Jonathan Leffler,725,California, USA
-Nicol Bolas,725,
-Felix Kling,717,
-CommonsWare,713,Pennsylvania, United States
-CB Bailey,700,United Kingdom
-Matthew Rankin,700,Independence, MO
-mklement0,700,United States
-Barmar,693,Arlington, MA
-Darin Dimitrov,688,Sofia, Bulgaria
-Nick,688,Adelaide SA, Australia
-paxdiablo,685,
-cs95,683,At an ipython shell near you
-BalusC,678,Willemstad, Curaçao
-ImportanceOfBeingErnest,674,QuantumLocation
-Remy Lebeau,673,United States
-piRSquared,665,Irvine, CA, United States
-CMS,670,Guatemala
-EdChum - Reinstate Monica,660,Berkshire, United Kingdom
-Espen,660,Norway
-Shepmaster,655,Pittsburgh, PA
-Ignacio Vazquez-Abrams,650,
-JaredPar,636,Redmond, WA
-Sven Marnach,630,Preetz, Germany
-John Rotenstein,624,Sydney, Australia
-dustbuster,620,Bel Air, MD, United States
-jfs,616,Moscow, Russia
-Aaron Hall,611,NYC, NY, United States
-StoryTeller - Unslander Monica,604,Israel
-Rémi Rousselet,601,Paris, France
-Doug Stevenson,600,Silicon Valley
-Adrita Sharma,599,India
-Michael_B,598,New York City, USA
-Erwin Brandstetter,595,Vienna, Austria
-Stephen C,593,Australia
+Name,Score,State,Country
+Gordon Linoff,1,013,New York, United States
+jezrael,1,005,Bratislava, Slovakia
+Ronak Shah,875,Pune, India.
+Barmar,686,Arlington, MA
+VonC,680,France
+GMB,693,
+Willem Van Onsem,650,Ypres, Belgium
+akrun,655,
+Jon Skeet,630,Reading, United Kingdom
+Doug Stevenson,630,Silicon Valley
+Martijn Pieters,630,Cambridge, UK
+jfriend00,611,
+lagbox,606,Earth
+Frank van Puffelen,548,San Francisco, CA
+chepner,530,Massachusetts
+Nick,520,Adelaide SA, Australia
+Markus L. Schmid,520,
+unutbu,516,
+Günter Zöchbauer,518,Linz, Austria
+Nina Scholz,508,Düsseldorf, Deutschland
+CertainPerformance,505,Austin, TX, USA
+Samuel G,504,
+Greg Hewgill,500,Christchurch, New Zealand
+ImportanceOfBeingErnest,500,QuantumLocation
+Seb,500,
+T.J. Crowder,505,United Kingdom
+Quentin,491,United Kingdom
+CB Bailey,490,United Kingdom
+Tim Biegeleisen,490,Singapore
+Bergi,479,
+Mark Byers,478,Denmark
+StoryTeller - Unslander Monica,470,Israel
+matt,462,
+Suragch,450,
+WeNYoBen,450,United States
+torek,447,Berkeley, CA
+Gordon Linoff,1,013,New York, United States
+jezrael,1,005,Bratislava, Slovakia
+Ronak Shah,875,Pune, India.
+Barmar,686,Arlington, MA
+VonC,680,France
+GMB,693,
+Willem Van Onsem,650,Ypres, Belgium
+akrun,655,
+Jon Skeet,630,Reading, United Kingdom
+Doug Stevenson,630,Silicon Valley
+Martijn Pieters,630,Cambridge, UK
+jfriend00,611,
+lagbox,606,Earth
+Frank van Puffelen,548,San Francisco, CA
+chepner,530,Massachusetts
+Nick,520,Adelaide SA, Australia
+Markus L. Schmid,520,
+unutbu,516,
+Günter Zöchbauer,518,Linz, Austria
+Nina Scholz,508,Düsseldorf, Deutschland
+CertainPerformance,505,Austin, TX, USA
+Samuel G,504,
+Greg Hewgill,500,Christchurch, New Zealand
+ImportanceOfBeingErnest,500,QuantumLocation
+Seb,500,
+T.J. Crowder,505,United Kingdom
+Quentin,491,United Kingdom
+CB Bailey,490,United Kingdom
+Tim Biegeleisen,490,Singapore
+Bergi,479,
+Mark Byers,478,Denmark
+StoryTeller - Unslander Monica,470,Israel
+matt,462,
+Suragch,450,
+WeNYoBen,450,United States
+torek,447,Berkeley, CA
+Gordon Linoff,1,013,New York, United States
+jezrael,1,005,Bratislava, Slovakia
+Ronak Shah,875,Pune, India.
+Barmar,686,Arlington, MA
+VonC,680,France
+GMB,693,
+Willem Van Onsem,650,Ypres, Belgium
+akrun,655,
+Jon Skeet,630,Reading, United Kingdom
+Doug Stevenson,630,Silicon Valley
+Martijn Pieters,630,Cambridge, UK
+jfriend00,611,
+lagbox,606,Earth
+Frank van Puffelen,548,San Francisco, CA
+chepner,530,Massachusetts
+Nick,520,Adelaide SA, Australia
+Markus L. Schmid,520,
+unutbu,516,
+Günter Zöchbauer,518,Linz, Austria
+Nina Scholz,508,Düsseldorf, Deutschland
+CertainPerformance,505,Austin, TX, USA
+Samuel G,504,
+Greg Hewgill,500,Christchurch, New Zealand
+ImportanceOfBeingErnest,500,QuantumLocation
+Seb,500,
+T.J. Crowder,505,United Kingdom
+Quentin,491,United Kingdom
+CB Bailey,490,United Kingdom
+Tim Biegeleisen,490,Singapore
+Bergi,479,
+Mark Byers,478,Denmark
+StoryTeller - Unslander Monica,470,Israel
+matt,462,
+Suragch,450,
+WeNYoBen,450,United States
+torek,447,Berkeley, CA
+CDJB,442,United Kingdom
+BalusC,440,Willemstad, Curaçao
+Darin Dimitrov,438,Sofia, Bulgaria
+John Zwinck,432,Singapore
+JB Nizet,439,Saint-Etienne, France
+jcalz,425,Cambridge, Massachusetts
+Peter Cordes,420,Halifax, Canada
+Vlad from Moscow,416,Moscow, Russia
+ansev,412,Badajoz, España
+Martin R,410,Germany
+Nicol Bolas,408,
+Michael_B,405,New York City, USA
+Zim,404,USA
+Alex Martelli,400,Sunnyvale, CA
+a_horse_with_no_name,400,Munich, Bavaria
+Salman A,395,Karachi, Pakistan
+Temani Afif,394,Tunisie
+Matthew Rankin,392,Independence, MO
+cs95,391,At an ipython shell near you
+Sven Marnach,390,Preetz, Germany
+Daniel Mesejo,386,Rio de Janeiro, Brazil
+Marc Gravell,385,Forest of Dean, United Kingdom
+eyllanesc,385,Peru
+redhatvicky,385,India
+Felix Kling,380,
+dustbuster,380,Bel Air, MD, United States
+Eric Lippert,378,Seattle, WA
+Jake Luby,375,Minneapolis, MN, USA
+CommonsWare,370,Pennsylvania, United States
+Erwin Brandstetter,360,Vienna, Austria
+Rabbid76,355,Austria
+Sh_Khan,351,
+Nehorai,350,Tel-Aviv, Israel
+CMS,340,Guatemala
+CDJB,442,United Kingdom
+BalusC,440,Willemstad, Curaçao
+Darin Dimitrov,438,Sofia, Bulgaria
+John Zwinck,432,Singapore
+JB Nizet,439,Saint-Etienne, France
+jcalz,425,Cambridge, Massachusetts
+Peter Cordes,420,Halifax, Canada
+Vlad from Moscow,416,Moscow, Russia
+ansev,412,Badajoz, España
+Martin R,410,Germany
+Nicol Bolas,408,
+Michael_B,405,New York City, USA
+Zim,404,USA
+Alex Martelli,400,Sunnyvale, CA
+a_horse_with_no_name,400,Munich, Bavaria
+Salman A,395,Karachi, Pakistan
+Temani Afif,394,Tunisie
+Matthew Rankin,392,Independence, MO
+cs95,391,At an ipython shell near you
+Sven Marnach,390,Preetz, Germany
+Daniel Mesejo,386,Rio de Janeiro, Brazil
+Marc Gravell,385,Forest of Dean, United Kingdom
+eyllanesc,385,Peru
+redhatvicky,385,India
+Felix Kling,380,
+dustbuster,380,Bel Air, MD, United States
+Eric Lippert,378,Seattle, WA
+Jake Luby,375,Minneapolis, MN, USA
+CommonsWare,370,Pennsylvania, United States
+Erwin Brandstetter,360,Vienna, Austria
+Rabbid76,355,Austria
+Sh_Khan,351,
+Nehorai,350,Tel-Aviv, Israel
+CMS,340,Guatemala
+CDJB,442,United Kingdom
+BalusC,440,Willemstad, Curaçao
+Darin Dimitrov,438,Sofia, Bulgaria
+John Zwinck,432,Singapore
+JB Nizet,439,Saint-Etienne, France
+jcalz,425,Cambridge, Massachusetts
+Peter Cordes,420,Halifax, Canada
+Vlad from Moscow,416,Moscow, Russia
+ansev,412,Badajoz, España
+Martin R,410,Germany
+Nicol Bolas,408,
+Michael_B,405,New York City, USA
+Zim,404,USA
+Alex Martelli,400,Sunnyvale, CA
+a_horse_with_no_name,400,Munich, Bavaria
+Salman A,395,Karachi, Pakistan
+Temani Afif,394,Tunisie
+Matthew Rankin,392,Independence, MO
+cs95,391,At an ipython shell near you
+Sven Marnach,390,Preetz, Germany
+Daniel Mesejo,386,Rio de Janeiro, Brazil
+Marc Gravell,385,Forest of Dean, United Kingdom
+eyllanesc,385,Peru
+redhatvicky,385,India
+Felix Kling,380,
+dustbuster,380,Bel Air, MD, United States
+Eric Lippert,378,Seattle, WA
+Jake Luby,375,Minneapolis, MN, USA
+CommonsWare,370,Pennsylvania, United States
+Erwin Brandstetter,360,Vienna, Austria
+Rabbid76,355,Austria
+Sh_Khan,351,
+Nehorai,350,Tel-Aviv, Israel
+CMS,340,Guatemala

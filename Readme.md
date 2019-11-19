@@ -14,6 +14,7 @@ We need to download the BeautifulSoup, requests, csv
     pip install lxml
     pip install urllib3
     pip install selenium
+    pip install pandas
 
 # Running the tests
 
